@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MuhibMohammedAssignment02</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_id">Task ID</string>
+    <string name="task_due_date">Due Date</string>
+    <string name="task_due_time">Due Time</string>
+    <string name="add_task_button_text">+ Add Task</string>
+    <string name="title_activity_add_task">Add a Task</string>
+    <string name="voice_task">Voice Input</string>
+</resources>
